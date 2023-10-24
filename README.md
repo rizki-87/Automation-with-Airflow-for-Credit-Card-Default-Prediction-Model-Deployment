@@ -14,7 +14,7 @@ This project aims to predict whether a credit card holder will default based on 
 
   This project was created by:
 
-    - [Rizki Pria Aditama](https://www.linkedin.com/in/rizki-pria-aditama-0ba43a65/) as a Data Engineer
+    [Rizki Pria Aditama](https://www.linkedin.com/in/rizki-pria-aditama-0ba43a65/) as a Data Engineer
     - Kenneth Vincentius as a Data Analyst
     - Harari Netanya Theon as a Data Scientist
     - Rais Yufli Xavierullah as a Data Scientist
